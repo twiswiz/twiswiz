@@ -1,16 +1,22 @@
-## Hi there 👋
+<table>
+<tr>
+<td valign="top" width="60%">
 
-<!--
-**twiswiz/twiswiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sushan (twiswiz) 👋
 
-Here are some ideas to get you started:
+B.Tech Computer Science student at Mahindra University (Class of 2027), building across full-stack web, Flutter, ML/DL, and AI voice agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+Next.js, React, Python, FastAPI, Supabase, PyTorch, CUDA
+
+### 🌐 Find me
+[Portfolio](https://sushang-portfolio.vercel.app/) · [GitHub](https://github.com/twiswiz)
+
+</td>
+<td valign="top" width="40%">
+
+<img src="./assets/demo.gif" width="100%" alt="demo gif" />
+
+</td>
+</tr>
+</table>
